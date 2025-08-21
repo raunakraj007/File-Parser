@@ -3,11 +3,7 @@
 This repo is a small full‑stack app that lets you upload CSV/Excel/PDF files, parses them in the background, and shows real‑time progress in the browser.
 
 ## 🎥 Demo
-<video src="./demo.mp4" controls width="720">
-  Sorry, your browser doesn't support embedded videos. You can download and watch the demo here: demo.mp4
-</video>
-
-
+<video src="https://github.com/user-attachments/assets/8244f5ee-315f-47ec-a7ba-e68ea55428d6" controls width="720"></video>
 ---
 
 ## What’s included
